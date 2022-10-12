@@ -1,7 +1,7 @@
 {
-  "name": "Zero Two Bot",
+  "name": "AURTHER Bot",
   "version": "1.8.0",
-  "description": "Multi device wa bot created by Team Zero Two.",
+  "description": "Multi device wa bot created by AURTHER LEWIN.",
   "main": "franxx.js",
   "type": "commonjs",
    "nodemonConfig": {
@@ -13,7 +13,7 @@
     "start": "npm i --location=global pm2 && pm2 start franxx.js --deep-monitoring --attach"
     },
   "keywords": [
-    "termux",
+    "بوت",
     "whatsapp",
     "SamPandey001",
     "Zero-Two",
